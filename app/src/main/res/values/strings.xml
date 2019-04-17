@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JobFinder</string>
+    <string name="Button1">Create a profile to find jobs</string>
+    <string name="Button2">Post a job interview</string>
+
+    <string-array name="job_titles">
+        <item>Event planner</item>
+        <item>Graphic Designer </item>
+
+        <item>IT Technician</item>
+        <item>Salesman</item>
+        <item>Cook</item>
+        <item>Restaurant Manager</item>
+        <item>Waiter</item>
+        <item>Delivery man</item>
+
+
+    </string-array>
+</resources>
